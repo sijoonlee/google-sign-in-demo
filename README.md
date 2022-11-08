@@ -1,3 +1,6 @@
+#CLIENT_ID=296240387758-n13i79juiqufu81qqqi17m2vqadsi5lg.apps.googleusercontent.com
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
